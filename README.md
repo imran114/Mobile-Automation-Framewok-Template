@@ -70,7 +70,7 @@ The MobileAutomationFrameworkTemplate is a modern and comprehensive Maven-based 
 To get started with the MobileAutomationFrameworkTemplate:
 
 1. **Clone the Repository:** Start by cloning the MobileAutomationFrameworkTemplate repository to your local machine using the following command:
-```git clone https://github.com/imran114/MobileAutomationFramewokTemplate.git```
+```git clone https://github.com/imran114/Mobile-Automation-Framewok-Template.git ```
 2. **Open the Project:** Open your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse) and import the project by selecting the root directory where you cloned the repository.
 
 3. **Set Up Dependencies:** The project is built using Maven, so it will automatically download the necessary dependencies. However, ensure that you have Maven installed on your machine. If not, you can download it from the official Maven website and follow the installation instructions.
