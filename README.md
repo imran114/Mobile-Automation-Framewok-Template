@@ -9,10 +9,6 @@ The MobileAutomationFrameworkTemplate is a modern and comprehensive Maven-based 
 [![GitHub stars](https://img.shields.io/github/stars/imran114/Mobile-Automation-Framewok-Template)](https://github.com/imran114/Mobile-Automation-Framewok-Template/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
-## Information Related This Framework
-[![MobileAutomationFrameworkTemplate](http://img.youtube.com/vi/Exb4TPXfGq8/0.jpg)](http://www.youtube.com/watch?v=Exb4TPXfGq8 "MobileAutomationFrameworkTemplate")
-
-
 
 ## 🌟 Features
 
