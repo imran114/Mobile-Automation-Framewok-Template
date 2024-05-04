@@ -2,11 +2,11 @@
 
 The MobileAutomationFrameworkTemplate is a modern and comprehensive Maven-based Java project for mobile test automation. It combines powerful libraries and frameworks to provide a robust and efficient automation solution.
 
-<!-- ![Framework Logo](https://github.com/imran114/MobileAutomationFramewokTemplate/blob/master/light.png)
+<!-- ![Framework Logo](https://github.com/imran114/Mobile-Automation-Framewok-Template/blob/master/light.png)
  -->
-[![GitHub issues](https://img.shields.io/github/issues/imran114/MobileAutomationFramewokTemplate)](https://github.com/imran114/MobileAutomationFramewokTemplate/issues)
-[![GitHub forks](https://img.shields.io/github/forks/imran114/MobileAutomationFramewokTemplate)](https://github.com/imran114/MobileAutomationFramewokTemplate/network)
-[![GitHub stars](https://img.shields.io/github/stars/imran114/MobileAutomationFramewokTemplate)](https://github.com/imran114/MobileAutomationFramewokTemplate/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/imran114/Mobile-Automation-Framewok-Template)](https://github.com/imran114/Mobile-Automation-Framewok-Template/issues)
+[![GitHub forks](https://img.shields.io/github/forks/imran114/Mobile-Automation-Framewok-Template)](https://github.com/imran114/Mobile-Automation-Framewok-Template/network)
+[![GitHub stars](https://img.shields.io/github/stars/imran114/Mobile-Automation-Framewok-Template)](https://github.com/imran114/Mobile-Automation-Framewok-Template/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 ## Information Related This Framework
@@ -89,13 +89,13 @@ The project structure provides a logical organization for your automation projec
 
 The MobileAutomationFrameworkTemplate offers a modern and feature-rich foundation for mobile test automation. Its integration with Selenium, Appium, TestNG, Extent Report, and javax.mail libraries, combined with its structured approach and utilities, makes it an ideal choice for building scalable and efficient mobile automation projects.
 
-For more details, refer to the [project repository](https://github.com/imran114/MobileAutomationFramewokTemplate).
+For more details, refer to the [project repository](https://github.com/imran114/Mobile-Automation-Framewok-Template).
 
 ![Framework Demo](https://example.com/framework-demo.gif)
 
 ## 📝 License
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/imran114/MobileAutomationFramewokTemplate/blob/master/LICENSE) file for details.
+This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/imran114/Mobile-Automation-Framewok-Template/blob/master/LICENSE) file for details.
 
 ## 👤 Author
 
